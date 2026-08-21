@@ -31,10 +31,13 @@ I build backend applications using Python, Django and Django REST Framework.
 
 ## 🚀 Featured Projects
 
-- E-Commerce Backend
-- Coaching Management System
+
 - Kornofuli
 - Medical AI
+- E-Commerce Backend
+- chat-2
+- GYM
+
 
 ## 📫 Connect With Me
 
