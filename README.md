@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Abdullah Hodan 👋
 
-<!--
-**abdullahhodan123/abdullahhodan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Django Backend Developer
 
-Here are some ideas to get you started:
+I build backend applications using Python, Django and Django REST Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Backend
+- Python
+- Django
+- Django REST Framework
+
+### Database
+- PostgreSQL
+- MySQL
+
+### DevOps & Tools
+- Docker
+- Redis
+- Celery
+- Git & GitHub
+- Nginx
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+## 🚀 Featured Projects
+
+- E-Commerce Backend
+- Coaching Management System
+- Kornofuli
+- Medical AI
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
